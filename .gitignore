@@ -201,3 +201,4 @@ $RECYCLE.BIN/
 **/target/
 
 *.iml
+/src/META-INF/
